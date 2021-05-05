@@ -1,0 +1,2 @@
+car_description
+-DCATKIN_DEVEL_PREFIX=/home/szymon/sr_ws/devel -DCMAKE_INSTALL_PREFIX=/home/szymon/sr_ws/install -G Unix Makefiles
